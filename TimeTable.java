@@ -40,6 +40,7 @@ public class TimeTable
             {"","","English","English","","","",""},
             {"Maths","Maths","Electronics","Electronics","","","",""},
             {"Physics","Physics","Biology","Biology","","","",""},
+            {"Web Communication","Web Communication","Maths","Maths","","","","",},
             {"Electronics","Electronics","Maths","Maths","","","",""},
             {"EVS","EVS","Physics","Physics","","","",""}
         };
